@@ -30,7 +30,7 @@ import ast
 import imutils
 import numpy as np
 import multiprocessing as mp
-from tqdm.autonotebook import trange, tqdm
+from tqdm.notebook import tqdm
 
 # Import pillow for Python image manipulation for GIF and JP2K
 from PIL import Image as PILImage
